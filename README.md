@@ -1,11 +1,14 @@
 # Spring 2020 Math 377: Intro to Numerical Methods
+## Main
 Instructor: Xuemei Chen, xchen@nmsu.edu
 
-**office hours: T 10:15 - 11:15, R 11:30 - 12:30**
+Lecture: TR 9 - 10:15 @SH114
+
+**office hours: T 10:15 - 11:15, R 11:30 - 12:30 @SH230**
 
 I do tend to be on campus more on Tuesdays, Wednesdays, and Thursdays. But feel free to make appointment with me **on any day**. 
 
-This will be the main course website. Canvas is for grades recording and possible announcements.
+This will be the main course website. Canvas is for grades recording, homework submission, and possible announcements.
 
 ## Software
 For people who don't have Python or Jupyter notebook, a very easy solution is to download [Anaconda](https://www.anaconda.com/distribution/) (Python 3.7 version). 
@@ -18,12 +21,15 @@ All the information above is contained in our [Syllabus](2020SprMath377_syllabus
 Please get a GitHub account if you don't have one yet. Email me your GitHub username.
 ```
 
+## Jupyter Notebook
+Once you have installed Jupyte Notebook, you can launch it using Anaconda, or you can simply execute "jupyter notebook" in the command line. This is a [tutorial](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a) that I found online. 
+
 ## Schedule 
 ('Q' means we have quiz that day)
 
 ||  |Date|Content|Assignment|Remarks|
 |:---|:---|:---| :---  | :---  | :---  |
 |1|R|1/23|Introduction, binary, floating point representation||||
-|2|T|1/28|binary, rounding, machine epsilon|Getting started with Jupyter notebook||
+|2|T|1/28|binary, rounding, machine epsilon|[Getting started with Jupyter notebook](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)||
 
 
