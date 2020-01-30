@@ -26,6 +26,12 @@ Please get a GitHub account if you don't have one yet. Email me your GitHub user
 ### Jupyter Notebook
 Once you have installed Jupyte Notebook, you can launch it using Anaconda, or you can simply execute "jupyter notebook" in the command line. Here is a [tutorial](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a) that I found online. 
 
+## HW instructions:
+
+For regular written exercises, you can either scan your work or type up your work (I don't prefer one way or another). In either case, you need to upload ONE SINGLE pdf on Canvas. 
+
+If you don't want to scan, you can turn in a physical copy of your work in class of the same day.
+
 ## Schedule 
 ('Q' means we have quiz that day)
 
