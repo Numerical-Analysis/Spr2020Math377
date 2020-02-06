@@ -32,7 +32,7 @@ Once you have installed Jupyte Notebook, you can launch it using Anaconda, or yo
 
 If you don't want to scan, you can turn in a physical copy of your work in class of the same day.
 
-**For python exercises**, you will do your work in jupyter notebook following the format [here](https://nbviewer.jupyter.org/github/Numerical-Analysis/Spr2020Math377/blob/master/nbs/HW2-CHEN.ipynb). When you are done, print out a pdf. You need to submit TWO files: the .ipynb file and the pdf printout.
+**For python exercises**, you will do your work in jupyter notebook following the format [here](https://nbviewer.jupyter.org/github/Numerical-Analysis/Spr2020Math377/blob/master/nbs/HW2-CHEN.ipynb). When you are done, print out a pdf. You need to submit TWO files to Canvas: the .ipynb file and the pdf printout.
 
 ## Schedule 
 
