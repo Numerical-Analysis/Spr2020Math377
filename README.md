@@ -43,7 +43,7 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |3|R|1/30|addition, IEEE standard, scientific computing|HW1:Ch1:1-11, read this [notebook](https://nbviewer.jupyter.org/github/Numerical-Analysis/Spr2020Math377/blob/master/nbs/Tutorial.ipynb)||
 |4|T|2/4|nested poly, bisection|||
 |5|R|2/6|jupyter notebook, Newton's method|HW2:Ch1(13-15),Ch2(1-2); practice the [tutorial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/Tutorial.ipynb)|HW1 due|
-|6|T|2/11|secant method, jupyter notebook|practice the [tutorial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/Tutorial.ipynb|Quiz 1|
+|6|T|2/11|secant method, jupyter notebook|practice the [tutorial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/Tutorial.ipynb)|Quiz 1|
 |7|R|2/13|||HW2 due|
 |8|T|2/18||||
 
