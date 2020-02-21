@@ -45,8 +45,8 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |5|R|2/6|jupyter notebook, Newton's method|HW2:Ch1(13-15),Ch2(1-2); practice the [tutorial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/Tutorial.ipynb)|HW1 due|
 |6|T|2/11|secant method, jupyter notebook|practice the [tutorial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/Tutorial.ipynb)|Quiz 1|
 |7|R|2/13|Matrix, vector, Matrix multiplication|HW3: Ch2(3-10), Ch3(1-3)|HW2 due|
-|8|T|2/18||||
-|9|R|2/20|||HW3 due|
+|8|T|2/18|Gaussian elimination|||
+|9|R|2/20|LU|HW4:Ch3(4-14)|HW3 due|
 
 
 
