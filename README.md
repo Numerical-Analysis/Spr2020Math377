@@ -47,7 +47,9 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |7|R|2/13|Matrix, vector, Matrix multiplication|HW3: Ch2(3-10), Ch3(1-3)|HW2 due|
 |8|T|2/18|Gaussian elimination|||
 |9|R|2/20|LU|HW4:Ch3(4-14)|HW3 due|
-|10|T|2/25|||Quiz 3|
+|10|T|2/25|partial pivoting||Quiz 3|
+|11|R|2/27|PLU|HW5: Ch3(15-22)|HW4 due|
+|12|T||||Quiz 4|
 
 
 
