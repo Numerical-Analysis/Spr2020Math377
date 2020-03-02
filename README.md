@@ -49,7 +49,8 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |9|R|2/20|LU|HW4:Ch3(4-14)|HW3 due|
 |10|T|2/25|partial pivoting||Quiz 3|
 |11|R|2/27|PLU|HW5: Ch3(15-22)|HW4 due|
-|12|T||||Quiz 4|
+|12|T|3/3||||
+|13|R|3/5|||Quiz 4|
 
 
 
