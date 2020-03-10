@@ -51,7 +51,7 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |11|R|2/27|PLU|HW5: Ch3(15-22)|HW4 due|
 |12|T|3/3|matrix in python, interpolation|HW6: Ch3(23-27). This [matrix notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/matrix.ipynb) is helpful.||
 |13|R|3/5|mid review, Lagrange Interp|See Canvas Announcement about midterm|Quiz 4, HW5 due|
-|14|T|3/10|||HW6 due|
+|14|T|3/10|Newton Interp, Runge effect|Read this [polynomial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/PolyInterp.ipynb)|HW6 due|
 |15|R|3/12|MIDTERM|||
 
 
