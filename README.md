@@ -1,4 +1,5 @@
 # Spring 2020 Math 377: Intro to Numerical Methods
+## [Click here for online course information](onlinecourse.md)
 ## Main
 Instructor: Xuemei Chen, xchen@nmsu.edu
 
