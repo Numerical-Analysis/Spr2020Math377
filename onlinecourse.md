@@ -36,7 +36,7 @@ Slack is computer/tablet/mobile friendly.
 ## Changes on syllabus
 * Homework: no change as we were already doing online homework. 
 
-**If you were using a scanning device on campus before, you may want to use mobile scanning apps like Adobe Scan, Simple Scan, CamScanner, etc.
+ **If you were using a scanning device on campus before, you may want to use mobile scanning apps like Adobe Scan, Simple Scan, CamScanner, etc.**
 
 * Quizzes: to be determined
 * Final Exam: to be determined
