@@ -2,7 +2,9 @@
 This page has all the information related to online teaching, effective 3/30 
 
 ## Lecture hours: TuTh 9 am - 10:15 am, join via Zoom: https://nmsu.zoom.us/j/2086364594
+This link is going to be the permant link for Lectures for the rest of the semester.
 ## Office hours: TBD, join via Zoom: https://nmsu.zoom.us/j/778810276
+This link is going to be the permant link for office hours or other out-side-of-office-hour appointments.
 
 ## To do list before 3/31
 * (optional, highly recommended) Join this course's slack channel [here](https://join.slack.com/t/nmsu-math377-spr2020/shared_invite/zt-czyllvna-wn~azu15QZAAv1w0GLU~gw)
@@ -23,8 +25,19 @@ This page has all the information related to online teaching, effective 3/30
 1. No registration is required.
 2. Join via https://nmsu.zoom.us/j/778810276 at any time during the office hours.
 3. There will be no recordings.
+4. Feel free to email me or Slack me to make zoom appointments outside of office hours. The same link is used: https://nmsu.zoom.us/j/778810276
 
-## Things are not yet settled
-* Quizzes
-* Final Exam
+## Slack utilization
+Slack is computer/tablet/mobile friendly. 
+* You can easily share a screen shot or a picture. It will be a great tool for you to ask me questions at any time. You can directly message me (private), and you are also welcome to share your question in the #general channel. 
+* You should free to talk to your peers in Slack as well, but make sure you obey all academic policy.
+* This is also a great place to drop me a message to schedule a personal zoom meeting outside of office hours. Of course you can stilll email me.
+
+## Changes on syllabus
+* Homework: no change as we were already doing online homework. 
+
+**If you were using a scanning device on campus before, you may want to use mobile scanning apps like Adobe Scan, Simple Scan, CamScanner, etc.
+
+* Quizzes: to be determined
+* Final Exam: to be determined
 
