@@ -4,7 +4,7 @@ This page has all the information related to online teaching, effective 3/30
 ## Lecture hours: TuTh 9 am - 10:15 am, join via Zoom: https://nmsu.zoom.us/j/2086364594
 This link is going to be the permant link for Lectures for the rest of the semester.
 ## Office hours: TBD, join via Zoom: https://nmsu.zoom.us/j/778810276
-This link is going to be the permant link for office hours or other out-side-of-office-hour appointments.
+This link is going to be the permant link for office hours or other outside-of-office-hour appointments.
 
 ## To do list before 3/31
 * (optional, highly recommended) Join this course's slack channel [here](https://join.slack.com/t/nmsu-math377-spr2020/shared_invite/zt-czyllvna-wn~azu15QZAAv1w0GLU~gw)
