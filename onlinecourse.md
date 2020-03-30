@@ -34,6 +34,8 @@ Slack is computer/tablet/mobile friendly.
 * This is also a great place to drop me a message to schedule a personal zoom meeting outside of office hours. Of course you can stilll email me.
 
 ## Changes on syllabus
+* Last day to withdraw from the course with “W” is April 17, 2020.
+* **Students may choose the S/U grade.  This choice is available to you by May 6.** If you choose S/U, anything equal or above C- is considered S. S/U grading does not have any effect on a student's GPA calculation, but will still allow the classes to count toward degree and financial aid requirements. 
 * Homework: no change as we were already doing online homework. 
 
  **If you were using a scanning device on campus before, you may want to use mobile scanning apps like Adobe Scan, Simple Scan, CamScanner, etc.**
