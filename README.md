@@ -54,6 +54,8 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |13|R|3/5|mid review, Lagrange Interp|See Canvas Announcement about midterm|Quiz 4, HW5 due|
 |14|T|3/10|Newton Interp, Runge effect|Read this [polynomial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/PolyInterp.ipynb)|HW6 due|
 |15|R|3/12|MIDTERM|||
+||||Break|||
+|16|T|3/31|||
 
 
 
