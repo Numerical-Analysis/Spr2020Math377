@@ -42,4 +42,5 @@ Slack is computer/tablet/mobile friendly.
 
 * Quizzes: to be determined
 * Final Exam: to be determined
+* The weights on Homework, Quiz, Final exam is going to be changed.
 
