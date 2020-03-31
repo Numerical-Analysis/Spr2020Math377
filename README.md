@@ -3,7 +3,7 @@
 ## Main
 Instructor: Xuemei Chen, xchen@nmsu.edu
 
-Lecture: TR 9 - 10:15 @SH114
+Lecture: TR 9 - 10:15 ~~@SH114~~ @zoom
 
 office hours: ~~T 10:15 - 11:15, R 11:30 - 12:30 @SH230~~ T 10:30 - 11:30, R 1:30 - 2:30 @zoom
 
