@@ -3,7 +3,7 @@ This page has all the information related to online teaching, effective 3/30
 
 ## Lecture hours: TuTh 9 am - 10:15 am, join via Zoom: https://nmsu.zoom.us/j/2086364594
 This link is going to be the permant link for Lectures for the rest of the semester.
-## Office hours: TBD, join via Zoom: https://nmsu.zoom.us/j/778810276
+## Office hours: Tu 10:30 - 11:30, Th 1:30 - 2:30, join via Zoom: https://nmsu.zoom.us/j/778810276
 This link is going to be the permant link for office hours or other outside-of-office-hour appointments.
 
 ## To do list before 3/31
