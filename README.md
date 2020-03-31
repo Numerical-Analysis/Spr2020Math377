@@ -55,7 +55,7 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |14|T|3/10|Newton Interp, Runge effect|Read this [polynomial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/PolyInterp.ipynb)|HW6 due|
 |15|R|3/12|MIDTERM|||
 ||||Break|||
-|16|T|3/31|||
+|16|T|3/31|logistics for online course|||
 
 
 
