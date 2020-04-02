@@ -55,7 +55,10 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |14|T|3/10|Newton Interp, Runge effect|Read this [polynomial notebook](https://github.com/Numerical-Analysis/Spr2020Math377/blob/master/nbs/PolyInterp.ipynb)|HW6 due|
 |15|R|3/12|MIDTERM|||
 ||||Break|||
-|16|T|3/31|logistics for online course|||
+|16|T|3/31|logistics for online course|Practice this [polynomial notebook](/nbs/PolyInterp.ipynb)||
+|17|R|4/2|chebyshev, spline|HW7: Ch4(1-10)||
+|18|T|4/7||||
+|19|R|4/9|||HW7 due|
 
 
 
