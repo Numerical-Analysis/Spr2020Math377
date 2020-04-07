@@ -40,7 +40,7 @@ Slack is computer/tablet/mobile friendly.
 
  **If you were using a scanning device on campus before, you may want to use mobile scanning apps like Adobe Scan, Simple Scan, CamScanner, etc.**
 
-* Quizzes: to be determined
-* Final Exam: to be determined
-* The weights on Homework, Quiz, Final exam is going to be changed.
+* Quizzes: weekly quizzes on Canvas during lecture time
+* Final Exam: Part 1: A few quiz style questions done through Canvas. This will be done real time during a zoom meeting with a time limit. Part 2: A few take-home written questions. Part 3: A few take-home Python questions. 
+* Attendance 5%, HW 30%, Quiz 15%, Midterm 25%, Final 25%
 
