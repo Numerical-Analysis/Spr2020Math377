@@ -58,7 +58,7 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |16|T|3/31|logistics for online course|Practice this [polynomial notebook](/nbs/PolyInterp.ipynb)||
 |17|R|4/2|chebyshev, spline|HW7: Ch4(1-10)||
 |18|T|4/7|cubic spline|||
-|19|R|4/9|||trial quiz, HW7 due|
+|19|R|4/9|python, trapezoidal rule|HW8: Ch4(13-19)|trial quiz, HW7 due|
 |20|T|4/14|||Quiz 7|
 
 
