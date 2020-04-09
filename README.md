@@ -60,6 +60,8 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |18|T|4/7|cubic spline|||
 |19|R|4/9|python, trapezoidal rule|HW8: Ch4(13-19)|trial quiz, HW7 due|
 |20|T|4/14|||Quiz 7|
+|21|R|4/16||||
+|22|T|4/21|||HW8 due|
 
 
 
