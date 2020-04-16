@@ -62,8 +62,8 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |20|T|4/14|Simpson's rule||Quiz 7|
 |21|R|4/16|composite quadrature, Gaussian quadrature|HW9: Ch4(11-12), Ch5(1-8)|HW8 due on 4/19|
 |22|T|4/21||||
-|23|R|4/23|||Quiz 8|
-|24|T|4/28|||HW9 due 4/26|
+|23|R|4/23|||Quiz 8,HW9 due on 4/26|
+|24|T|4/28||||
 |25|R|4/30|||Quiz 9|
 |26|T|5/5||||
 |27|R|5/7||||
