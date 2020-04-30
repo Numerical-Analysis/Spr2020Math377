@@ -63,8 +63,8 @@ If you don't want to scan, you can turn in a physical copy of your work in class
 |21|R|4/16|composite quadrature, Gaussian quadrature|HW9: Ch4(11-12), Ch5(1-8)|HW8 due on 4/19|
 |22|T|4/21|HW8, Gaussian quadrature, some LA review|read 7.2.3, 7.2.4 of notes||
 |23|R|4/23|span, eigenvalue, PD|HW10: Ch5(9-13),Ch6(1-10)|Quiz 8,HW9 due on 4/26|
-|24|T|4/28||||
-|25|R|4/30|||Quiz 9,HW10 due on 5/3|
+|24|T|4/28|cholesky factorization, least squares|||
+|25|R|4/30|line fitting, svd||Quiz 9,HW10 due on 5/3|
 |26|T|5/5||||
 |27|R|5/7||||
 
